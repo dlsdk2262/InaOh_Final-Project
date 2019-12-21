@@ -1,0 +1,51 @@
+body {
+    padding: 0px;
+  background-color: #96B0BC;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    font-family: cursive;
+}
+
+
+#life {
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+    font-family: cursive;
+}
+
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+    font-family: cursive;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+button {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin-right: -4px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid skyblue;
+    background-color: yellow;
+    color: skyblue;
+    padding: 5px
+}
+
+.group button:hover {
+    color: white;
+    background-color: skyblue;
+}
+
+
